@@ -1,0 +1,62 @@
+#block{
+	border: solid aqua 2px;
+	width: 500px;
+	height: 590px;
+	border-radius: 20px;
+	margin-top: 60px;
+	margin-left: 485px;
+}
+div{
+	margin: 20px;
+	margin-left: 43px;
+    text-indent: 5px;
+    line-height: 10px;
+    background-color: navy;
+
+}
+.book{
+	border: solid aqua 2px;
+	width: 500px;
+	height: 110px;
+	margin-top: 0px;
+	margin-left: -2px;
+	border-radius: 20px 20px 1px 1px
+}
+body{
+	background-color: aqua;
+}
+#book2{
+	font-family: verdana;
+	color: aqua;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 10px;
+}
+#book2:hover>h4{
+      display: block;
+	background-color: blue;
+	visibility: visible;
+	border-radius: 20px;
+	font-size: 31px;
+	transition: all , 0.5s;
+}
+.sick:hover>h5{
+	background-color: red;
+	color: red;
+	display: block;
+	padding: 10px;
+	border-radius: 20px;
+	margin-top: 12px;
+    align-items: center;
+    margin-left: -10px;
+}
+input{
+	border-radius: 5px;
+}
+.kick{
+	padding: 10px;
+	background-color: blue;
+	display: block;
+	margin-left: 162px;
+
+}

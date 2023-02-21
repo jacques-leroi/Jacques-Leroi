@@ -1,0 +1,92 @@
+.marquee{
+        letter-spacing: 3px;
+        color: silver;
+        font-weight: bold; 
+        opacity: 0.8;
+        font-family: verdana;
+        font-size: 10px; 
+}
+.marquee:hover{
+	color:  salmon;
+	text-transform: capitalize;
+}
+#p{
+	letter-spacing: 6px;
+	text-transform: uppercase;
+	text-shadow: 1px 2px 3px;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+	color: teal;
+	font-family: verdana;
+}
+#cool:hover>h6{
+	color: salmon;
+	text-transform: capitalize;
+	font-size: 9.4px;
+}
+body{
+	background-image: url(6.jpg);
+	background-size: cover;
+	background-position: center;
+	
+	height: 200vh;
+
+}
+h2{
+	text-transform: uppercase;
+	letter-spacing: 2.5px;
+	font-family: verdana;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 50px;
+	color: darkcyan;
+	display: block;
+	background-color: thistle;
+	padding: 5px;
+}
+#a{
+	border-radius: 12px;
+	margin-top: -130px;
+
+}
+#b{
+	border-radius: 8px;
+	margin-top: -130px;
+}
+#c{
+	border-radius: 8px;
+	margin-top: -130px;
+}
+#d{
+	border-radius: 12px;
+	margin-top: -130px;
+}
+h1{
+	letter-spacing: 9px;
+	font-family: freestyle script;
+	color: crimson;
+	text-align: center;
+	font-size: 60px;
+	text-shadow: 2px 3px 8px;
+}
+.azer{
+	font-family: sans-serif;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: center;
+	color: whitesmoke;
+	font-display: block;
+	color: whitesmoke;
+	font-size: 20px;
+}
+.qwer{
+	font-family: sans-serif;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: center;
+	color: whitesmoke;
+	font-display: block;
+	color: whitesmoke;
+	font-size: 20px
+}

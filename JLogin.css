@@ -1,0 +1,76 @@
+#block	{
+	border: solid aqua 2px;
+	width: 500px;
+	height: 590px;
+	border-radius: 20px;
+	margin-top: 60px;
+	margin-left: 480px;
+	background-color: aqua;
+}
+body{
+	background-color: navy;
+}
+.jump{
+	width: 507px;
+	height: 110px;
+	border: solid navy 2px;
+	border-radius: 20px 20px 0px 0px;
+	margin-left: -4px;
+	margin-top: -3px;
+}
+
+h4{
+	margin-top: 23px;
+	margin-left: 169px;
+	color: navy;
+	font-family: calibri;
+	font-weight: bold;
+	font-size: 38px;
+	text-shadow: 1px 2px 3px;
+	letter-spacing: 4px;
+	text-indent: -10px;
+
+}
+div{
+	margin:  20px;
+	color: navy;
+	font-family: calibri;
+	font-weight: bold;
+	margin-left: 30px;
+}
+input{
+	border-radius: 5px;
+	margin: 0px;
+}
+#jum:hover>h4{
+	display: block;
+	padding: 0px;
+	border-radius: 10px;
+	transition: all, 0.39s;
+	color: lightblue;
+	background-color: teal;
+	margin-left: 45px;
+	width: 350px;
+	text-indent: 110px;
+	font-size: 38.2px;
+	letter-spacing: 6px;
+
+}
+
+h5{
+	width: 300px;
+	margin-left: 190px;
+	font-size: 20px;
+	text-shadow: 1px 2px 3px;
+	padding: 10px;
+	border-radius: 20px;
+	letter-spacing: 10px;
+
+}
+#fume:hover{
+    font-family: verdana;
+    letter-spacing: -1px;
+}
+
+
+
